@@ -1,5 +1,5 @@
 # Projet-SalePrice
-[texte1](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Transformations.png) <br>
+![texte1](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Transformations.png) <br>
 [text2](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/SalePrice.png) <br>
 [texte3](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/R%C3%A9gression%20Lin%C3%A9aire.png) <br>
 [texte4](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Random%20Forest.png) <br>
