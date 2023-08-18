@@ -25,6 +25,7 @@ Trois modèles d'apprentissage automatique sont choisis pour la prédiction des 
 
 Ci-dessous sont présentées les performances et les graphiques relatifs au Foret Aléatoire
 
+![image](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/3e0d2894-250e-4a11-849f-f1c272aff2dd) <br>
 
 
  
