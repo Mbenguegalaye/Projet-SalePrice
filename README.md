@@ -3,13 +3,13 @@ INTRODUCTION
 
 Ce mémoire présente une étude approfondie menée dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif de cette étude était de développer des modèles d'apprentissage automatique précis pour estimer les prix des maisons résidentielles.
 
-Développement
+                              Développement
 
-L'étude débute par une description détaillée de l'ensemble de données, qui contient 79 variables explicatives décrivant divers aspects des propriétés immobilières. La variable cible est le prix final de chaque maison. Une étape cruciale de nettoyage des données est entreprise, impliquant la gestion des valeurs manquantes et la transformation des variables catégorielles en données numériques.
+La première phase de l'étude se concentre sur la préparation minutieuse des données. L'ensemble de données contient une variété de variables explicatives décrivant les propriétés, avec comme variable cible le prix final de chaque maison (SalePrice). Les données manquantes sont gérées en supprimant certaines variables et en imputant des valeurs pour d'autres. De plus, les variables catégorielles sont transformées en données numériques à l'aide de techniques d'encodage appropriées.
 
 Le graphique ci-dessous offre une illustration visuelle des données, permettant une meilleure compréhension.
 
-
+![image](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/2c58c5ee-fbdb-41ac-81a6-7fedf1cc7927) <br>
 
 Une observation clé est faite lors de l'analyse de la distribution de la variable cible, révélant une distribution asymétrique à droite. Pour résoudre ce problème, plusieurs transformations sont explorées, notamment le Johnson Transform et le Log-normal.
 
@@ -39,7 +39,4 @@ En conclusion, cette étude met en évidence l'importance cruciale de la prépar
 
 Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données, transformations, modèles d'apprentissage automatique.
 
-
-[texte4](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Random%20Forest.png) <br>
-[texte5](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Amplification%20du%20Gradient.png) <br>
 [code](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/Codes/Projet_SalePrice%20(4).html) <br>
