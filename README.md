@@ -45,4 +45,5 @@ Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données,
 
 Pour faciliter la compréhension et la réplication de cette étude, nous mettons à votre disposition les données utilisées pour l'apprentissage et la validation du modèle. Vous trouverez ci-dessous les liens vers les ensembles de données d'entraînement et de validation :
 
+
 ![code](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/Codes/Projet_SalePrice%20(4).html) <br>
