@@ -1,9 +1,10 @@
 # Projet-SalePrice
-INTRODUCTION
 
-Ce mémoire présente une étude approfondie menée dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif de cette étude était de développer des modèles d'apprentissage automatique précis pour estimer les prix des maisons résidentielles.
+                    INTRODUCTION
 
-                              Développement
+Ce mémoire présente une étude approfondie menée dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif central réside dans la création de modèles d'apprentissage automatique de haute précision pour évaluer les valeurs des propriétés résidentielles. À travers une exploration méthodique et une analyse rigoureuse, cette étude vise à relever le défi complexe de la prédiction des prix immobiliers.
+
+                     Développement
 
 La première phase de l'étude se concentre sur la préparation minutieuse des données. L'ensemble de données contient une variété de variables explicatives décrivant les propriétés, avec comme variable cible le prix final de chaque maison (SalePrice). Les données manquantes sont gérées en supprimant certaines variables et en imputant des valeurs pour d'autres. De plus, les variables catégorielles sont transformées en données numériques à l'aide de techniques d'encodage appropriées.
 
@@ -33,9 +34,12 @@ Ci-dessous sont présentées les performances et les graphiques relatifs à l'Am
 
 Les résultats révèlent que la Forêt Aléatoire et l'Amplification du Gradient surpassent la Régression Linéaire en termes de précision de prédiction, avec une meilleure capacité à capturer les nuances non linéaires des données. Cependant, chaque modèle présente des avantages et des limitations spécifiques.
 
-CONCLUSION
+                          CONCLUSION
 
-En conclusion, cette étude met en évidence l'importance cruciale de la préparation minutieuse des données dans la construction de modèles d'apprentissage automatique performants. Les résultats et les enseignements tirés de cette expérience de participation au Data Challenge Kaggle fournissent des bases solides pour la sélection et l'amélioration continue des modèles de prédiction de prix des maisons.
+En conclusion, cette étude a illuminé l'essentielle préparation des données dans l'édification de modèles d'apprentissage automatique à la pointe de l'efficacité. Les découvertes et les perspectives tirées de cette aventure au sein du Data Challenge Kaggle s'érigent en bases inébranlables pour le choix judicieux et l'amélioration continue des modèles de prévision des prix des habitations.
+L'analyse minutieuse de l'ensemble de données, la gestion ingénieuse des valeurs manquantes, et la transformation éclairée des variables catégorielles en données numériques constituent les piliers fondamentaux ayant pavé la voie à des modèles affinés. L'observation de la distribution asymétrique à droite de la variable cible, 'SalePrice', a déclenché des investigations approfondies et des ajustements judicieux tels que le Johnson Transform et le Log-normal, pour mieux adapter les modèles à la réalité des données.
+En étudiant de près les performances et les caractéristiques distinctes de trois modèles - la Régression Linéaire, la Forêt Aléatoire et l'Amplification du Gradient -, nous avons appréhendé que la complexité et la non-linéarité inhérentes aux données requièrent des outils de prédiction sophistiqués. Les modèles tels que la Forêt Aléatoire et l'Amplification du Gradient ont prouvé leur supériorité en offrant des prédictions plus précises et en capturant de façon plus fidèle les nuances du jeu de données.
+Finalement, cette étude nous rappelle l'importance de l'exploration approfondie des données, de l'ajustement adéquat des modèles et de l'évaluation rigoureuse de leurs performances. Elle ouvre également la voie à des investigations futures, explorant d'autres algorithmes sophistiqués et se plongeant davantage dans les spécificités du marché immobilier à Ames, Iowa. En unissant rigueur méthodologique et adaptation à l'évolution du domaine, nous érigeons les fondations pour une amélioration constante des modèles de prédiction et pour des découvertes encore plus captivantes dans le domaine de l'analyse prédictive.
 
 Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données, transformations, modèles d'apprentissage automatique.
 
