@@ -21,11 +21,11 @@ Trois modèles d'apprentissage automatique sont choisis pour la prédiction des 
 
  Ci-dessous sont présentées les performances et les graphiques relatifs à la Régression Linéaire
 
- ![texte3](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Regression-lineaire.png) <br>
+ ![Regression-lineaire](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Regression-lineaire.png) <br>
 
-Ci-dessous sont présentées les performances et les graphiques relatifs au Foret Aléatoire
+Ci-dessous sont présentées les performances et les graphiques relatifs à l'Amplification du Gradient
 
-![image](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/3e0d2894-250e-4a11-849f-f1c272aff2dd) <br>
+![GradientBoosting](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/3e0d2894-250e-4a11-849f-f1c272aff2dd) <br>
 
 
  
