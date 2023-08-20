@@ -10,13 +10,13 @@ La première phase de l'étude se concentre sur la préparation minutieuse des d
 
 Le graphique ci-dessous offre une illustration visuelle des données, permettant une meilleure compréhension.
 
-![image](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/2c58c5ee-fbdb-41ac-81a6-7fedf1cc7927) <br>
+![Données](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/2c58c5ee-fbdb-41ac-81a6-7fedf1cc7927) <br>
 
 Une observation clé est faite lors de l'analyse de la distribution de la variable cible, révélant une distribution asymétrique à droite. Pour résoudre ce problème, plusieurs transformations sont explorées, notamment le Johnson Transform et le Log-normal.
 
 Le graphique ci-dessous illustre la variable cible et les transformations effectuées.
 
-![texte1](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Transformations.png) <br>
+![Transformations](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Transformations.png) <br>
 
 Trois modèles d'apprentissage automatique sont choisis pour la prédiction des prix : la Régression Linéaire, la Forêt Aléatoire et l'Amplification du Gradient. Chaque modèle est minutieusement ajusté et évalué en utilisant des métriques telles que le MAE, le MSE, le RMSE et le R2. Des graphiques de dispersion et des graphiques résiduels sont utilisés pour illustrer visuellement les performances de chaque modèle.
 
@@ -26,7 +26,7 @@ Trois modèles d'apprentissage automatique sont choisis pour la prédiction des 
 
  Ci-dessous sont présentées les performances et les graphiques relatifs à la Foret Aléatire
 
- ![image](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/1acbb9d8-db09-4ec9-b23a-42595dd2484b) <br>
+ ![Foret Aléatoire](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/1acbb9d8-db09-4ec9-b23a-42595dd2484b) <br>
 
 Ci-dessous sont présentées les performances et les graphiques relatifs à l'Amplification du Gradient
 
@@ -45,8 +45,6 @@ Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données,
 
 Pour faciliter la compréhension et la réplication de cette étude, nous mettons à votre disposition les données utilisées pour l'apprentissage et la validation du modèle. Vous trouverez ci-dessous les liens vers les ensembles de données d'entraînement et de validation :
 
-[train](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>
-
-[test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>
-
-[sample_submission](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>
+[données train](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>
+[données test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>
+[données sample_submission](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>
