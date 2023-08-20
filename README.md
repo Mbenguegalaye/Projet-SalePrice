@@ -2,13 +2,13 @@
 
 Mon tout premier projet sur la prédiction des prix des maisons, réalisé dans le cadre de mon mémoire de fin d'année du Master 1 (2022-2023).
 
-Contexte
-Ce projet s'inscrit dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif de cette étude est de développer des modèles d'apprentissage automatique de haute précision pour estimer avec justesse les prix des maisons résidentielles.
+  Contexte
+Ce projet s'inscrit dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif de cette étude est de développer des modèles d'apprentissage automatique de haute précision pour estimer avec justesse les prix des maisons résidentielles. 
 
                                   Mise en Œuvre
 Afin de rendre ma démarche, mes stratégies et mes résultats accessibles à tous, j'ai choisi de mettre en place cette page GitHub dédiée. Sur cette page, vous trouverez une documentation complète de mon projet, allant de la préparation des données jusqu'à l'évaluation de divers modèles de prédiction.
 
-Contenu
+  Contenu
 Vous découvrirez sur cette page :
 
 - Description de la Stratégie : Une analyse minutieuse des choix méthodologiques opérés tout au long du projet, avec des explications claires sur les raisons qui sous-tendent chaque décision.
@@ -18,10 +18,10 @@ Vous découvrirez sur cette page :
 - Mémoire en Détail : Un lien vers mon mémoire complet, offrant une plongée approfondie dans chaque étape du processus, y compris la préparation des données et la mise en place des méthodes classiques.
 - Données et Résultats : Des liens vous permettant d'accéder aux ensembles de données d'apprentissage et de test, ainsi qu'aux résultats de prédiction générés par mon modèle final.
 
-Engagement
+  Engagement
 Je prends l'engagement de maintenir cette page constamment à jour, afin de garantir qu'elle demeure une source d'informations actuelle et pertinente. Mon objectif est de soutenir tant les participants au défi que ceux qui aspirent à approfondir leurs compétences en analyse de données. Vos commentaires, suggestions et idées sont les bienvenus pour enrichir cette ressource et la rendre encore plus utile.
 
-Remerciements
+  Remerciements
 J'exprime ma profonde gratitude envers mes enseignants qui ont rendu cette aventure captivante possible. Je suis également ouvert à vos commentaires, suggestions et discussions, que vous pouvez me faire parvenir à l'adresse suivante : mbenguegalaye26@gmail.com.
 
 Cordialement,
