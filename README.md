@@ -1,9 +1,9 @@
 # Projet-SalePrice
 
 - [Mémoire](lien_vers_votre_mémoire.pdf) : Vous pouvez accéder au mémoire complet de cette étude.
-- [Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br> : Les données utilisées pour l'apprentissage des modèles.
-- [Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br> : Les données utilisées pour tester les performances des modèles.
-- [Résultats de Test (Submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br> : Les résultats de nos tests sont disponibles dans ce dossier.
+- [Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>  Les données utilisées pour l'apprentissage des modèles.
+- [Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>  Les données utilisées pour tester les performances des modèles.
+- [Résultats de Test (Submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>  Les résultats de nos tests sont disponibles dans ce dossier.
 
                     INTRODUCTION
 
