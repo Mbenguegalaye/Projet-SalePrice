@@ -1,9 +1,33 @@
-# Projet-SalePrice
+# Présentation d'un Projet sur la Prédiction des Prix des Maisons (SalePrice)
 
-- [Mémoire](lien_vers_votre_mémoire.pdf) : Vous pouvez accéder au mémoire complet de cette étude.
-- [Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>  Les données utilisées pour l'apprentissage des modèles.
-- [Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>  Les données utilisées pour tester les performances des modèles.
-- [Résultats de Test (Submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>  Les résultats de nos tests sont disponibles dans ce dossier.
+Mon tout premier projet sur la prédiction des prix des maisons, réalisé dans le cadre de mon mémoire de fin d'année du Master 1 (2022-2023).
+
+Contexte
+Ce projet s'inscrit dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif de cette étude est de développer des modèles d'apprentissage automatique de haute précision pour estimer avec justesse les prix des maisons résidentielles.
+
+Mise en Œuvre
+Afin de rendre ma démarche, mes stratégies et mes résultats accessibles à tous, j'ai choisi de mettre en place cette page GitHub dédiée. Sur cette page, vous trouverez une documentation complète de mon projet, allant de la préparation des données jusqu'à l'évaluation de divers modèles de prédiction.
+
+Contenu
+Vous découvrirez sur cette page :
+
+- Description de la Stratégie : Une analyse minutieuse des choix méthodologiques opérés tout au long du projet, avec des explications claires sur les raisons qui sous-tendent chaque décision.
+
+- Lien vers le Code : Un lien vers un dépôt GitHub contenant le code complet du projet, y compris les notebooks Jupyter pour chaque méthode explorée.
+
+- Mémoire en Détail : Un lien vers mon mémoire complet, offrant une plongée approfondie dans chaque étape du processus, y compris la préparation des données et la mise en place des méthodes classiques.
+- Données et Résultats : Des liens vous permettant d'accéder aux ensembles de données d'apprentissage et de test, ainsi qu'aux résultats de prédiction générés par mon modèle final.
+
+Engagement
+Je prends l'engagement de maintenir cette page constamment à jour, afin de garantir qu'elle demeure une source d'informations actuelle et pertinente. Mon objectif est de soutenir tant les participants au défi que ceux qui aspirent à approfondir leurs compétences en analyse de données. Vos commentaires, suggestions et idées sont les bienvenus pour enrichir cette ressource et la rendre encore plus utile.
+
+Remerciements
+J'exprime ma profonde gratitude envers mes enseignants qui ont rendu cette aventure captivante possible. Je suis également ouvert à vos commentaires, suggestions et discussions, que vous pouvez me faire parvenir à l'adresse suivante : mbenguegalaye26@gmail.com.
+
+Cordialement,
+
+Galaye Mbengue
+
 
                     INTRODUCTION
 
@@ -50,9 +74,10 @@ Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données,
 
 Pour faciliter la compréhension et la réplication de cette étude, nous mettons à votre disposition les données utilisées pour l'apprentissage et la validation du modèle. Vous trouverez ci-dessous les liens vers les ensembles de données d'entraînement et de validation :
 
-[données train](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>
-[données test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>
-[données sample_submission](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>
+- [Mémoire](lien_vers_votre_mémoire.pdf) : Vous pouvez accéder au mémoire complet de cette étude.
+- [Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>  Les données utilisées pour l'apprentissage des modèles.
+- [Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>  Les données utilisées pour tester les performances des modèles.
+- [Résultats de Test (Submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>  Les résultats de nos tests sont disponibles dans ce dossier.
 
 Les résultats de nos tests sont disponibles dans le dossier 'submission' de ce dépôt. Vous pouvez accéder aux fichiers de résultats en suivant ce lien: 
 [lien vers le dossier 'submission'](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/submission/submission.csv)<br>
