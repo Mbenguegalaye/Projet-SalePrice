@@ -49,4 +49,4 @@ Pour faciliter la compréhension et la réplication de cette étude, nous metton
 
 [test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>
 
-
+[sample_submission](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>
