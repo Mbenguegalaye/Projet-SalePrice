@@ -74,11 +74,12 @@ Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données,
 
 Pour faciliter la compréhension et la réplication de cette étude, nous mettons à votre disposition les données utilisées pour l'apprentissage et la validation du modèle. Vous trouverez ci-dessous les liens vers les ensembles de données d'entraînement et de validation :
 
-- [Mémoire](lien_vers_votre_mémoire.pdf) : Vous pouvez accéder au mémoire complet de cette étude.
-- [Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>  Les données utilisées pour l'apprentissage des modèles.
-- [Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>  Les données utilisées pour tester les performances des modèles.
-- [Résultats de Test (Submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>  Les résultats de nos tests sont disponibles dans ce dossier.
-
+- [Lien vers le Mémoire](lien_vers_votre_mémoire.pdf) : Vous pouvez accéder au mémoire complet de cette étude.
+- [Lien vers le Code](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/Codes/Projet_SalePrice%20(4).html)<br>
+- [Lien vers les Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>  Les données utilisées pour l'apprentissage des modèles.
+- [Lien vers les Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>  Les données utilisées pour tester les performances des modèles.
+- Vous trouverez également un lien vers les données de soumission (sample_submission) fournies dans le cadre du défi. Ces données vous donneront un aperçu des attentes de format pour les prédictions finales à soumettre. [sample-submission](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>
+  
 Les résultats de nos tests sont disponibles dans le dossier 'submission' de ce dépôt. Vous pouvez accéder aux fichiers de résultats en suivant ce lien: 
-[lien vers le dossier 'submission'](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/submission/submission.csv)<br>
+[Lien vers les Résultats de Prédiction](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/submission/submission.csv)<br>
 
