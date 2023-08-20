@@ -47,4 +47,6 @@ Pour faciliter la compréhension et la réplication de cette étude, nous metton
 
 [train](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>
 
+[test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>
+
 
