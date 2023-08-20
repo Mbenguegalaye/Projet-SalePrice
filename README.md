@@ -50,5 +50,5 @@ Pour faciliter la compréhension et la réplication de cette étude, nous metton
 [données sample_submission](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br>
 
 Les résultats de nos tests sont disponibles dans le dossier 'submission' de ce dépôt. Vous pouvez accéder aux fichiers de résultats en suivant ce lien: 
-[](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/submission/submission.csv)<br>
+[lien vers le dossier 'submission'](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/submission/submission.csv)<br>
 
