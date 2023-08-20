@@ -1,5 +1,10 @@
 # Projet-SalePrice
 
+- [Mémoire](lien_vers_votre_mémoire.pdf) : Vous pouvez accéder au mémoire complet de cette étude.
+- [Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br> : Les données utilisées pour l'apprentissage des modèles.
+- [Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br> : Les données utilisées pour tester les performances des modèles.
+- [Résultats de Test (Submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/sample_submission/sample_submission.csv)<br> : Les résultats de nos tests sont disponibles dans ce dossier.
+
                     INTRODUCTION
 
 Ce mémoire présente une étude approfondie menée dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif central réside dans la création de modèles d'apprentissage automatique de haute précision pour évaluer les valeurs des propriétés résidentielles. À travers une exploration méthodique et une analyse rigoureuse, cette étude vise à relever le défi complexe de la prédiction des prix immobiliers.
