@@ -89,3 +89,7 @@ Pour faciliter la compréhension et la réplication de cette étude, nous metton
 Les résultats de nos tests sont disponibles dans le dossier 'submission' de ce dépôt. Vous pouvez accéder aux fichiers de résultats en suivant ce lien : 
 [Lien vers les Résultats de Prédiction (submission)](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/submission/submission.csv)<br>
 
+
+
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/team
+
