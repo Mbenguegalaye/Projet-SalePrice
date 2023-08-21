@@ -34,7 +34,7 @@ Cordialement,
 Galaye Mbengue
 
 
-                                INTRODUCTION
+                               INTRODUCTION
 
 Ce mémoire présente une étude approfondie menée dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif central réside dans la création de modèles d'apprentissage automatique de haute précision pour évaluer les valeurs des propriétés résidentielles. À travers une exploration méthodique et une analyse rigoureuse, cette étude vise à relever le défi complexe de la prédiction des prix immobiliers.
 
