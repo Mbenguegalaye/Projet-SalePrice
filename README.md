@@ -56,15 +56,15 @@ Trois modèles d'apprentissage automatique sont choisis pour la prédiction des 
 
  Ci-dessous sont présentées les performances et les graphiques relatifs à la Régression Linéaire
 
- ![Regression-lineaire](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Regression-lineaire.png) <br>
+ ![Regression-lineaire](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/Regression-lineaire.png)<br>
 
  Ci-dessous sont présentées les performances et les graphiques relatifs à la Foret Aléatire
 
- ![Foret Aléatoire](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/1acbb9d8-db09-4ec9-b23a-42595dd2484b) <br>
+ ![Foret Aléatoire](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/1acbb9d8-db09-4ec9-b23a-42595dd2484b)<br>
 
 Ci-dessous sont présentées les performances et les graphiques relatifs à l'Amplification du Gradient
 
-![GradientBoosting](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/3e0d2894-250e-4a11-849f-f1c272aff2dd) <br>
+![GradientBoosting](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/3e0d2894-250e-4a11-849f-f1c272aff2dd)<br>
 
 Les résultats révèlent que la Forêt Aléatoire et l'Amplification du Gradient surpassent la Régression Linéaire en termes de précision de prédiction, avec une meilleure capacité à capturer les nuances non linéaires des données. Cependant, chaque modèle présente des avantages et des limitations spécifiques.
 
