@@ -34,11 +34,11 @@ Cordialement,
 Galaye Mbengue
 
 
-INTRODUCTION
+                                INTRODUCTION
 
 Ce mémoire présente une étude approfondie menée dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif central réside dans la création de modèles d'apprentissage automatique de haute précision pour évaluer les valeurs des propriétés résidentielles. À travers une exploration méthodique et une analyse rigoureuse, cette étude vise à relever le défi complexe de la prédiction des prix immobiliers.
 
-Développement
+                                Développement
 
 La première phase de l'étude se concentre sur la préparation minutieuse des données. L'ensemble de données contient une variété de variables explicatives décrivant les propriétés, avec comme variable cible le prix final de chaque maison (SalePrice). Les données manquantes sont gérées en supprimant certaines variables et en imputant des valeurs pour d'autres. De plus, les variables catégorielles sont transformées en données numériques à l'aide de techniques d'encodage appropriées.
 
@@ -68,7 +68,7 @@ Ci-dessous sont présentées les performances et les graphiques relatifs à l'Am
 
 Les résultats révèlent que la Forêt Aléatoire et l'Amplification du Gradient surpassent la Régression Linéaire en termes de précision de prédiction, avec une meilleure capacité à capturer les nuances non linéaires des données. Cependant, chaque modèle présente des avantages et des limitations spécifiques.
 
-CONCLUSION
+                                CONCLUSION
 
 En conclusion, cette étude a illuminé l'essentielle préparation des données dans l'édification de modèles d'apprentissage automatique à la pointe de l'efficacité. Les découvertes et les perspectives tirées de cette aventure au sein du Data Challenge Kaggle s'érigent en bases inébranlables pour le choix judicieux et l'amélioration continue des modèles de prévision des prix des habitations.
 L'analyse minutieuse de l'ensemble de données, la gestion ingénieuse des valeurs manquantes, et la transformation éclairée des variables catégorielles en données numériques constituent les piliers fondamentaux ayant pavé la voie à des modèles affinés. L'observation de la distribution asymétrique à droite de la variable cible, 'SalePrice', a déclenché des investigations approfondies et des ajustements judicieux tels que le Johnson Transform et le Log-normal, pour mieux adapter les modèles à la réalité des données.
