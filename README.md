@@ -6,7 +6,7 @@ Contexte :
 
 Ce projet s'inscrit dans le cadre du Data Challenge Kaggle axé sur la prédiction du prix des maisons (SalePrice). L'objectif de cette étude est de développer des modèles d'apprentissage automatique de haute précision pour estimer avec justesse les prix des maisons résidentielles.
 
-Mise en Œuvre :
+                                Mise en Œuvre 
 
 Afin de rendre ma démarche, mes stratégies et mes résultats accessibles à tous, j'ai choisi de mettre en place cette page GitHub dédiée. Sur cette page, vous trouverez une documentation complète de mon projet, allant de la préparation des données jusqu'à l'évaluation de divers modèles de prédiction.
 
