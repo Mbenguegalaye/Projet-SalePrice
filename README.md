@@ -21,7 +21,7 @@ Vous découvrirez sur cette page :
 - Mémoire en Détail : Un lien vers mon mémoire complet, offrant une plongée approfondie dans chaque étape du processus, y compris la préparation des données et la mise en place des méthodes classiques.
 - Données et Résultats : Des liens vous permettant d'accéder aux ensembles de données d'apprentissage et de test, ainsi qu'aux résultats de prédiction générés par mon modèle final.
 
-Engagement :
+ Engagement :
 
 Je prends l'engagement de maintenir cette page constamment à jour, afin de garantir qu'elle demeure une source d'informations actuelle et pertinente. Mon objectif est de soutenir tant les participants au défi que ceux qui aspirent à approfondir leurs compétences en analyse de données. Vos commentaires, suggestions et idées sont les bienvenus pour enrichir cette ressource et la rendre encore plus utile.
 
