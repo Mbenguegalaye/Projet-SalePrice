@@ -58,7 +58,7 @@ Trois modèles d'apprentissage automatique sont choisis pour la prédiction des 
 
  ![Regression Lineaire](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/regressionlineaire.png) <br>
 
- Ci-dessous sont présentées les performances et les graphiques relatifs à la Foret Aléatire
+ Ci-dessous sont présentées les performances et les graphiques relatifs à la Foret Aléatoire
 
  ![ForetAléatoire](https://github.com/Mbenguegalaye/Projet-SalePrice/assets/141923523/1acbb9d8-db09-4ec9-b23a-42595dd2484b)<br>
 
