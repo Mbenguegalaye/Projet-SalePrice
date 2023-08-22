@@ -50,7 +50,7 @@ Une observation clé est faite lors de l'analyse de la distribution de la variab
 
 Le graphique ci-dessous illustre la variable cible et les transformations effectuées.
 
-![Transformations](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/transformation.png) <br>
+![Transformations](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/images/johnsonlognormal.png) <br>
 
 Trois modèles d'apprentissage automatique sont choisis pour la prédiction des prix : la Régression Linéaire, la Forêt Aléatoire et l'Amplification du Gradient. Chaque modèle est minutieusement ajusté et évalué en utilisant des métriques telles que le MAE, le MSE, le RMSE et le R2. Des graphiques de dispersion et des graphiques résiduels sont utilisés pour illustrer visuellement les performances de chaque modèle.
 
