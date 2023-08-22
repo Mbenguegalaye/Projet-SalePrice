@@ -79,7 +79,7 @@ Mots clés : Data Challenge Kaggle, prédiction de prix, nettoyage des données,
 
 Pour faciliter la compréhension et la réplication de cette étude, nous mettons à votre disposition les données utilisées pour l'apprentissage et la validation du modèle. Vous trouverez ci-dessous les liens vers les ensembles de données d'entraînement et de validation :
 
-- [Lien vers le Mémoire](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/M%C3%A9moire/M%C3%A9moire%20sur%20l%E2%80%99Exploration%20et%20l%E2%80%99Analyse%20Pr%C3%A9dictive_%20Pr%C3%A9diction%20du%20Prix%20des%20Maisons%20%E2%80%98SalePrice%E2%80%99%20dans%20le%20cadre%20d%E2%80%99un%20Data%20Challenge%20Kaggle.pdf)<br>  Vous pouvez accéder au mémoire complet de cette étude.
+- [Lien vers le Mémoire](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/M%C3%A9moire/M%C3%A9moire%20sur%20l%E2%80%99Exploration%20et%20l%E2%80%99Analyse%20Pr%C3%A9dictive_%20Pr%C3%A9diction%20du%20Prix%20des%20Maisons%20%E2%80%98SalePrice%E2%80%99%20dans%20le%20cadre%20d%E2%80%99un%20Data%20Challenge%20Kaggle%20(1).pdf)<br>  Vous pouvez accéder au mémoire complet de cette étude.
 - [Lien vers le Code](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/Codes/Projet_SalePrice.ipynb)<br>
 - [Lien vers les Données d'Entraînement](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/train/train.csv)<br>  Les données utilisées pour l'apprentissage des modèles.
 - [Lien vers les Données de Test](https://github.com/Mbenguegalaye/Projet-SalePrice/blob/main/test/test.csv)<br>  Les données utilisées pour tester les performances des modèles.
